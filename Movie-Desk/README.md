@@ -1,6 +1,6 @@
 # IMDB-Clone-App
 
-#Live Demo : https://movieappoys.netlify.app/
+Live Demo : https://movieappoys.netlify.app/
 
 <img width="945" alt="Homepage" src="https://user-images.githubusercontent.com/100505172/206193028-7a4447b6-2914-4a1b-bf82-feff3b0808be.png">
 
